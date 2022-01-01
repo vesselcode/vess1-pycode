@@ -1,0 +1,3 @@
+target vess1
+1. preparation github, git, pycharm
+2. syncronization
