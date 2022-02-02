@@ -1,6 +1,7 @@
 #penerapan list dalam phyton
 
 # opening the CSV file
+import csv
 with open('stok_buah.csv', mode='r') as file:
     # reading the CSV file
     csvFile = csv.reader(file)
